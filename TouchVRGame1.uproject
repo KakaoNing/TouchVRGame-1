@@ -9,10 +9,6 @@
 			"Enabled": true
 		},
 		{
-			"Name": "OnlineSubsystemOculus",
-			"Enabled": true
-		},
-		{
 			"Name": "OnlineSubsystemGooglePlay",
 			"Enabled": false,
 			"SupportedTargetPlatforms": [
@@ -40,8 +36,8 @@
 			"Enabled": false
 		},
 		{
-			"Name": "OnlineSubsystem",
-			"Enabled": false
+			"Name": "OnlineSubsystemOculus",
+			"Enabled": true
 		}
 	],
 	"TargetPlatforms": [
